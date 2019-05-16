@@ -1,7 +1,7 @@
 {
   "name": "spacenow-ui-react",
-  "version": "1.0.0",
-  "description": "spacenow-ui-react React component",
+  "version": "0.0.5",
+  "description": "spacenow-ui-react",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -24,9 +24,17 @@
     "react": "16.x"
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^5.0.11",
+    "@storybook/react": "^5.0.11",
+    "date-fns": "^1.30.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
     "nwb": "0.23.x",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dates": "^20.2.0",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0"
   },
   "author": "",
   "homepage": "",
