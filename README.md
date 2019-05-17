@@ -4,7 +4,34 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe spacenow-ui-react here.
+Spacenow-ui-react.
+
+## Installation
+Run the following command:
+`yarn add spacenow-ui-react`
+
+# Development
+--
+
+## Build
+Run the following command to build package:
+`yarn run publish`
+
+## Publish
+Run the following command to publish package to NPM:
+`yarn run publish`
+
+## Clean
+Run the following command to clean build folder:
+`yarn run publish`
+
+## Storybook
+Run the following command to view all components in Storybook:
+`yarn run storybook`
+
+## React App
+Run the following command to run demo server:
+`yarn start`
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
